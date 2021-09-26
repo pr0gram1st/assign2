@@ -47,5 +47,6 @@ int main() {
 
     delete pers;
     //here we are deleting object "pers" to free the memory in the computer storage that it took before. This is one of the biggest features of dynamic memory.
+
     return 0;
 }

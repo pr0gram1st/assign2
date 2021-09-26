@@ -26,6 +26,7 @@ public:
         this->age = Age;
         this->luck = Luck;
     }
+
     void setName(string name){
         this->name = name;
     }
